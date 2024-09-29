@@ -1,7 +1,7 @@
-# Shellhacks
-**Team of 4: Jessica Rompas, Marian Mora, Brianna Machuca, Eshiana Jean-Charles**
+# Shellhacks 2024 - State Farm
+**Team of 4:** Jessica Rompas, Marian Mora, Brianna Machuca, Eshiana Jean-Charles
 
-**State_Farm**
+
 
 
 *Making Insurance Easy*
