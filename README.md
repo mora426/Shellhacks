@@ -1,5 +1,5 @@
 # Shellhacks
-**Team: Jessica Romoa**
+**Team: Jessica Rompas, Marian Mora, Brianna Machuca, Eshiana Jean-Charles**
 
 **State_Farm**
 *Making Insurance Easy*
