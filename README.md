@@ -9,8 +9,9 @@
 
 State Farm is a well-known company that has thousands of users throughout the U.S. However, many college students lack the initiative to get started with their own insurance accounts. Our goal is to educate and guide students in a simple and fun way!
 
+We have created a website that is fun and engaging for students/young adults. It includes a home page that talks about the company, a Why Us? page that compares State Farm with other insurance companies, a Budget page that provides a questionare that will determine the apporximate range of your insurance monthly plan, and a Find Your Agent page that helps you connect with the correct agent based on a questionare.
 
-https://fivehacks.neocities.org
+**Link:** https://fivehacks.neocities.org
 
 
 
